@@ -25,4 +25,5 @@
 ---
 
 ## 🌟 Projects
-Coming soon...
+- [Mawhiba Portal] 
+  *An informative web platform built with HTML, CSS, and JS. It features a live demo and showcases my early journey in web development.*
