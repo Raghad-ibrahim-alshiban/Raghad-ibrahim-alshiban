@@ -25,6 +25,7 @@
 ---
 
 ## 🌟 Projects
+* [Secret Ending](https://github.com/Raghad-ibrahim-alshiban/Secret-Ending) A 3D adventure game built in Unity within a 10-hour challenge for a special wedding announcement. Features a timer system, item search mechanics, and a custom interactive ending.
 - [Mawhiba] (https://raghad-ibrahim-alshiban.github.io/mawhiba-/)
   *An informative web platform built with HTML, CSS, and JS. It features a live demo and showcases my early journey in web development.*
 
