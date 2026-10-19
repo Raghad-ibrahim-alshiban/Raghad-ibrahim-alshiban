@@ -1,4 +1,4 @@
-# Hi, I'm Raghad 👋
+# Hi, I'm Raghad Alyahya👋
 
 🎓 Computer Science Graduate  
 💡 Interested in UI/UX, Game Development & Cybersecurity  
