@@ -9,7 +9,7 @@
 
 ## 🛠 Skills
 - UI/UX Design
-- Flutter
+- Python
 - Firebase
 - Unity
 - Canva
@@ -21,7 +21,7 @@
 - Improve my UI/UX skills
 - Build stronger projects
 - Learn more about cybersecurity and data engineering
-- Developer IOS
+- Aspiring iOS Developer | Learning Swift & SwiftUI
 
 ---
 
